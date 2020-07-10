@@ -5,3 +5,4 @@ master modified
 master modified again
 modified again
 modified again and again
+test rebase (master)
