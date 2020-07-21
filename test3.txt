@@ -1,6 +1,6 @@
 test3
 modified
-https://github.com/Kousuke-Araki/test1.git
+https://github.com/Kousuke-Araki/test.git
 master modified
 master modified again
 modified again
